@@ -1,0 +1,2 @@
+Computer,999.0
+Bag of shredded cheese,3.99
